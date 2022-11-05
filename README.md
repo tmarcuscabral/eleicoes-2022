@@ -14,3 +14,8 @@ Total de votos 22 segundo turno: 58206354
 #Arquivos
 
 lista_estado_secoes : contém número total de seções por estado
+
+#Comandos
+
+Comando para converter arquivos Latin-1 para UTF-8
+# conv -f iso-8859-1 -t utf-8 logd.dat
