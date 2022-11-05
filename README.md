@@ -10,3 +10,7 @@ Total de votos 13 primeiro turno: 57259504
 Total de votos 13 segundo turno: 60345999   
 Total de votos 22 primeiro turno: 51072345   
 Total de votos 22 segundo turno: 58206354   
+
+#Arquivos
+
+lista_estado_secoes : contém número total de seções por estado
