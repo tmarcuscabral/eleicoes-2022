@@ -15,6 +15,7 @@ Total de votos 22 segundo turno: 58206354
 
 lista_estado_secoes : contém número total de seções por estado   
 headers_table : associa um cabeçalho e o número de sua coluna   
+urls_download_tse_bu_imgbu_logjez_rdv_vscmr : contém links para download dos boletins e logs das urnas eletrônicas
 
 #Comandos   
 
