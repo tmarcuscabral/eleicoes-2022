@@ -1,3 +1,6 @@
+# urls_download_tse_bu_imgbu_logjez_rdv_vscmr   
+contém links para download dos boletins e logs das urnas eletrônicas eleições 2022
+
 # eleicoes-2022
 
 Simples script em bash para somar os votos para presidente nas legendas 13 e 22 no arquivo csv oficial disponibilizado no link abaixo:   
