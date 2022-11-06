@@ -20,4 +20,4 @@ Total de votos 22 segundo turno: 58206354
 ###### Comandos
 
 Comando para converter arquivos Latin-1 para UTF-8    
-<code>conv -f iso-8859-1 -t utf-8 logd.dat</code>   
+<code>iconv -f iso-8859-1 -t utf-8 logd.dat</code>   
